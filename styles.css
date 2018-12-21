@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+    text-align: center;
+    background-color: #ff4444;
+}
+
+.christmas-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: green;
+    color: #ff4444;
+    font-family: 'Mountains of Christmas', cursive;
+    
+}
+
+.christmas-body {
+    padding-top: 20px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    color: #66ff66;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #004400;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+p {
+    font-size: 1.25em;
+}
